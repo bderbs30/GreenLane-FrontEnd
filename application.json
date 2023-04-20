@@ -1,0 +1,50 @@
+{
+  "pages": [
+    {
+      "id": "Users",
+      "isDefault": false
+    },
+    {
+      "id": "Statistics Monitor",
+      "isDefault": false
+    },
+    {
+      "id": "Home",
+      "isDefault": true
+    },
+    {
+      "id": "User Find Bikes",
+      "isDefault": false
+    },
+    {
+      "id": "User Return Bike",
+      "isDefault": false
+    },
+    {
+      "id": "Create User Page",
+      "isDefault": false
+    },
+    {
+      "id": "User Information",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFDEDE",
+  "icon": "arrow-up",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

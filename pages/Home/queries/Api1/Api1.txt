@@ -1,0 +1,7 @@
+{
+	first_name: "sean",
+	last_name: "persaud",
+	email: "persaud.s@northeastern.edu", 
+	dob: "2001-03-03", 
+	address: "101 W"
+}

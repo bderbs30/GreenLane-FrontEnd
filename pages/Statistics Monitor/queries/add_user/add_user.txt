@@ -1,0 +1,5 @@
+{
+	docks: 10,
+	location: here,
+	city: 7
+}
