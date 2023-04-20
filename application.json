@@ -27,6 +27,22 @@
     {
       "id": "User Information",
       "isDefault": false
+    },
+    {
+      "id": "Add Docking Station",
+      "isDefault": false
+    },
+    {
+      "id": "Remove Docking Station",
+      "isDefault": false
+    },
+    {
+      "id": "Add New Bike",
+      "isDefault": false
+    },
+    {
+      "id": "Get Stations",
+      "isDefault": false
     }
   ],
   "viewMode": false,
