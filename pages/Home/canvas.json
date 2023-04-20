@@ -75,7 +75,7 @@
                       "boxShadow": "none",
                       "widgetName": "Button1",
                       "onClick": "{{navigateTo('Users', {}, 'SAME_WINDOW')}}",
-                      "buttonColor": "#fafafa",
+                      "buttonColor": "#14532d",
                       "displayName": "Button",
                       "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
                       "searchTags": [
@@ -94,7 +94,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 46,
+                      "leftColumn": 43,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -104,7 +104,7 @@
                       "isDisabled": false,
                       "key": "xzdtmzzfs5",
                       "isDeprecated": false,
-                      "rightColumn": 58,
+                      "rightColumn": 55,
                       "isDefaultClickDisabled": true,
                       "widgetId": "5lpdi408gj",
                       "minWidth": 120,
@@ -127,7 +127,7 @@
                       "boxShadow": "none",
                       "widgetName": "Button2",
                       "onClick": "{{navigateTo('Statistics Monitor', {}, 'SAME_WINDOW')}}",
-                      "buttonColor": "#fafafa",
+                      "buttonColor": "#14532d",
                       "displayName": "Button",
                       "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
                       "searchTags": [
@@ -146,13 +146,13 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 46,
+                      "leftColumn": 43,
                       "dynamicBindingPathList": [],
                       "text": "Statistics Monitor",
                       "isDisabled": false,
                       "key": "xzdtmzzfs5",
                       "isDeprecated": false,
-                      "rightColumn": 58,
+                      "rightColumn": 55,
                       "isDefaultClickDisabled": true,
                       "widgetId": "4tgsd87c9n",
                       "minWidth": 120,
@@ -179,8 +179,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 23,
-                      "bottomRow": 31,
+                      "topRow": 24,
+                      "bottomRow": 40,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -203,7 +203,7 @@
                       "text": "GreenLane",
                       "key": "ngb2qtbe11",
                       "isDeprecated": false,
-                      "rightColumn": 24,
+                      "rightColumn": 16,
                       "backgroundColor": "",
                       "textAlign": "CENTER",
                       "dynamicHeight": "AUTO_HEIGHT",
@@ -217,10 +217,10 @@
                       "renderMode": "CANVAS",
                       "isLoading": false,
                       "responsiveBehavior": "fill",
-                      "originalTopRow": 23,
+                      "originalTopRow": 24,
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
-                      "originalBottomRow": 39,
+                      "originalBottomRow": 40,
                       "fontSize": "3.75rem",
                       "minDynamicHeight": 4
                     },
@@ -278,7 +278,7 @@
               "key": "k8nbw2767t",
               "backgroundColor": "url(\"https://i.imgur.com/WrTt6HJ.jpg\")no-repeat;",
               "isDeprecated": false,
-              "rightColumn": 51,
+              "rightColumn": 64,
               "dynamicHeight": "AUTO_HEIGHT_WITH_LIMITS",
               "widgetId": "pkt1o5ziaq",
               "containerStyle": "card",
