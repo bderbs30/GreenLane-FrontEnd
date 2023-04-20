@@ -51,7 +51,7 @@
   "color": "#FFDEDE",
   "icon": "arrow-up",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
     "type": "FLUID"
