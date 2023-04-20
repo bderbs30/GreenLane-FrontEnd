@@ -7,8 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "sshProxyEnabled": false,
-        "url": "web:4000/u/users/{{get_user_info.data.userID}}"
+        "url": "web:4000/u/users/{{Table1.selectedRow.userID}}"
       },
       "invalids": [],
       "messages": [],
@@ -53,7 +52,7 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
-      "get_user_info.data.userID"
+      "Table1.selectedRow.userID"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
