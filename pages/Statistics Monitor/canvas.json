@@ -149,7 +149,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 1,
+                      "leftColumn": 16,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -162,7 +162,7 @@
                       "isDisabled": false,
                       "key": "m8vma413d1",
                       "isDeprecated": false,
-                      "rightColumn": 34,
+                      "rightColumn": 49,
                       "isDefaultClickDisabled": true,
                       "widgetId": "wtn75br6hs",
                       "minWidth": 120,
@@ -204,7 +204,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 1,
+                      "leftColumn": 16,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -217,7 +217,7 @@
                       "isDisabled": false,
                       "key": "m8vma413d1",
                       "isDeprecated": false,
-                      "rightColumn": 34,
+                      "rightColumn": 49,
                       "isDefaultClickDisabled": true,
                       "widgetId": "pegp80lolv",
                       "minWidth": 120,
@@ -259,7 +259,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 1,
+                      "leftColumn": 16,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -272,7 +272,7 @@
                       "isDisabled": false,
                       "key": "m8vma413d1",
                       "isDeprecated": false,
-                      "rightColumn": 34,
+                      "rightColumn": 49,
                       "isDefaultClickDisabled": true,
                       "widgetId": "djtrdmlhjp",
                       "minWidth": 120,
@@ -314,7 +314,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 1,
+                      "leftColumn": 16,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -327,7 +327,7 @@
                       "isDisabled": false,
                       "key": "m8vma413d1",
                       "isDeprecated": false,
-                      "rightColumn": 34,
+                      "rightColumn": 49,
                       "isDefaultClickDisabled": true,
                       "widgetId": "vulpzcplmg",
                       "minWidth": 120,

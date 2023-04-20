@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 450,
+          "bottomRow": 410,
           "containerStyle": "none",
           "snapRows": 124,
           "parentRowSpace": 1,
@@ -39,7 +39,7 @@
                 "group"
               ],
               "topRow": 14,
-              "bottomRow": 45,
+              "bottomRow": 41,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
@@ -60,7 +60,7 @@
                   "widgetName": "Canvas1",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 310,
+                  "bottomRow": 270,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -82,8 +82,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 10,
-                      "bottomRow": 14,
+                      "topRow": 6,
+                      "bottomRow": 10,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -94,7 +94,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 0,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -107,7 +107,7 @@
                       "isDisabled": false,
                       "key": "k5y8x9rkce",
                       "isDeprecated": false,
-                      "rightColumn": 27,
+                      "rightColumn": 45,
                       "isDefaultClickDisabled": true,
                       "widgetId": "mz21rqieqv",
                       "minWidth": 120,
@@ -137,8 +137,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 15,
-                      "bottomRow": 19,
+                      "topRow": 11,
+                      "bottomRow": 15,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -149,7 +149,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 0,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -162,7 +162,7 @@
                       "isDisabled": false,
                       "key": "k5y8x9rkce",
                       "isDeprecated": false,
-                      "rightColumn": 27,
+                      "rightColumn": 45,
                       "isDefaultClickDisabled": true,
                       "widgetId": "4vjdzw7tzo",
                       "minWidth": 120,
@@ -192,8 +192,8 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 20,
-                      "bottomRow": 24,
+                      "topRow": 16,
+                      "bottomRow": 20,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
@@ -204,7 +204,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 0,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -217,7 +217,7 @@
                       "isDisabled": false,
                       "key": "k5y8x9rkce",
                       "isDeprecated": false,
-                      "rightColumn": 27,
+                      "rightColumn": 45,
                       "isDefaultClickDisabled": true,
                       "widgetId": "mxwh357ixg",
                       "minWidth": 120,
@@ -302,15 +302,15 @@
                         "click",
                         "submit"
                       ],
-                      "topRow": 25,
-                      "bottomRow": 29,
+                      "topRow": 21,
+                      "bottomRow": 25,
                       "parentRowSpace": 10,
                       "type": "BUTTON_WIDGET",
                       "hideCard": false,
                       "animateLoading": true,
                       "parentColumnSpace": 7.146484375,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 0,
+                      "leftColumn": 18,
                       "dynamicBindingPathList": [
                         {
                           "key": "buttonColor"
@@ -323,7 +323,7 @@
                       "isDisabled": false,
                       "key": "m8vma413d1",
                       "isDeprecated": false,
-                      "rightColumn": 27,
+                      "rightColumn": 45,
                       "isDefaultClickDisabled": true,
                       "widgetId": "dt5x5c9g82",
                       "minWidth": 120,
@@ -376,7 +376,7 @@
               "originalTopRow": 14,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 45,
+              "originalBottomRow": 42,
               "minDynamicHeight": 10
             }
           ]

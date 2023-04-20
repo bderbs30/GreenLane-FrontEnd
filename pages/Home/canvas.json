@@ -46,7 +46,7 @@
               "animateLoading": true,
               "parentColumnSpace": 12.5625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 0,
+              "leftColumn": 2,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -60,7 +60,7 @@
                   "widgetName": "Canvas1",
                   "displayName": "Canvas",
                   "topRow": 0,
-                  "bottomRow": 630,
+                  "bottomRow": 670,
                   "parentRowSpace": 1,
                   "type": "CANVAS_WIDGET",
                   "canExtend": false,
@@ -94,7 +94,7 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 43,
+                      "leftColumn": 48,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -104,7 +104,7 @@
                       "isDisabled": false,
                       "key": "xzdtmzzfs5",
                       "isDeprecated": false,
-                      "rightColumn": 55,
+                      "rightColumn": 60,
                       "isDefaultClickDisabled": true,
                       "widgetId": "5lpdi408gj",
                       "minWidth": 120,
@@ -146,13 +146,13 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 43,
+                      "leftColumn": 48,
                       "dynamicBindingPathList": [],
                       "text": "Statistics Monitor",
                       "isDisabled": false,
                       "key": "xzdtmzzfs5",
                       "isDeprecated": false,
-                      "rightColumn": 55,
+                      "rightColumn": 60,
                       "isDefaultClickDisabled": true,
                       "widgetId": "4tgsd87c9n",
                       "minWidth": 120,
@@ -233,8 +233,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 21,
-                      "bottomRow": 26,
+                      "topRow": 18,
+                      "bottomRow": 23,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -243,7 +243,7 @@
                       "fontFamily": "Open Sans",
                       "parentColumnSpace": 17.625,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 39,
+                      "leftColumn": 43,
                       "dynamicBindingPathList": [
                         {
                           "key": "truncateButtonColor"
@@ -257,7 +257,7 @@
                       "text": "About US",
                       "key": "ngb2qtbe11",
                       "isDeprecated": false,
-                      "rightColumn": 60,
+                      "rightColumn": 64,
                       "backgroundColor": "",
                       "textAlign": "CENTER",
                       "dynamicHeight": "AUTO_HEIGHT",
@@ -271,10 +271,10 @@
                       "renderMode": "CANVAS",
                       "isLoading": false,
                       "responsiveBehavior": "fill",
-                      "originalTopRow": 21,
+                      "originalTopRow": 18,
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
-                      "originalBottomRow": 26,
+                      "originalBottomRow": 23,
                       "fontSize": "1.875rem",
                       "minDynamicHeight": 4
                     },
@@ -287,8 +287,8 @@
                         "paragraph",
                         "label"
                       ],
-                      "topRow": 27,
-                      "bottomRow": 63,
+                      "topRow": 25,
+                      "bottomRow": 67,
                       "parentRowSpace": 10,
                       "type": "TEXT_WIDGET",
                       "hideCard": false,
@@ -297,7 +297,7 @@
                       "fontFamily": "Open Sans",
                       "parentColumnSpace": 17.625,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 39,
+                      "leftColumn": 43,
                       "dynamicBindingPathList": [
                         {
                           "key": "truncateButtonColor"
@@ -311,7 +311,7 @@
                       "text": "Greenlane is a revolutionary bike-sharing platform that aims to improve mobility and sustainability in cities. By optimizing bike-sharing operations and promoting shared use of public space, Greenlane offers a cost-effective and efficient way to travel, while reducing congestion on roads and promoting active transportation. Whether you're a daily commuter, a weekend adventurer, or someone who cares about the environment and the health of our communities, Greenlane is an initiative that is dedicated to creating a more sustainable and equitable future for all.",
                       "key": "ngb2qtbe11",
                       "isDeprecated": false,
-                      "rightColumn": 60,
+                      "rightColumn": 64,
                       "backgroundColor": "",
                       "textAlign": "CENTER",
                       "dynamicHeight": "AUTO_HEIGHT",
@@ -325,10 +325,10 @@
                       "renderMode": "CANVAS",
                       "isLoading": false,
                       "responsiveBehavior": "fill",
-                      "originalTopRow": 27,
+                      "originalTopRow": 25,
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "maxDynamicHeight": 9000,
-                      "originalBottomRow": 32,
+                      "originalBottomRow": 67,
                       "fontSize": "1rem",
                       "minDynamicHeight": 4
                     },
