@@ -7,6 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
+        "sshProxyEnabled": false,
         "url": "web:4000/u/bikes/return/{{JSONForm1.formData.bikeID}}/{{JSONForm1.formData.stationID}}"
       },
       "invalids": [],
